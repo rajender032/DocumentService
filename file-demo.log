@@ -1,0 +1,227 @@
+2019-01-04 18:12:49.053  INFO 9680 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : Starting GoogleDriveDocumentControllerTest on mrajender-lp with PID 9680 (started by mrajender in C:\Users\mrajender\git\file-demo\spring-file-demo)
+2019-01-04 18:12:49.057  INFO 9680 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : No active profile set, falling back to default profiles: default
+2019-01-04 18:12:51.323  INFO 9680 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:12:51.691  INFO 9680 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2019-01-04 18:12:51.693  INFO 9680 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2019-01-04 18:12:51.711  INFO 9680 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 18 ms
+2019-01-04 18:12:51.763  INFO 9680 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : Started GoogleDriveDocumentControllerTest in 3.225 seconds (JVM running for 5.151)
+2019-01-04 18:12:53.675  INFO 9680 --- [Thread-5] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:14:01.020  INFO 14056 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : Starting GoogleDriveDocumentControllerTest on mrajender-lp with PID 14056 (started by mrajender in C:\Users\mrajender\git\file-demo\spring-file-demo)
+2019-01-04 18:14:01.024  INFO 14056 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : No active profile set, falling back to default profiles: default
+2019-01-04 18:14:03.521  INFO 14056 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:14:03.957  INFO 14056 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2019-01-04 18:14:03.957  INFO 14056 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2019-01-04 18:14:03.974  INFO 14056 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 17 ms
+2019-01-04 18:14:04.020  INFO 14056 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : Started GoogleDriveDocumentControllerTest in 3.581 seconds (JVM running for 5.6)
+2019-01-04 18:14:04.165  INFO 14056 --- [Thread-5] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:15:51.021  INFO 13316 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : Starting GoogleDriveDocumentControllerTest on mrajender-lp with PID 13316 (started by mrajender in C:\Users\mrajender\git\file-demo\spring-file-demo)
+2019-01-04 18:15:51.026  INFO 13316 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : No active profile set, falling back to default profiles: default
+2019-01-04 18:15:53.278  INFO 13316 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:15:53.646  INFO 13316 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2019-01-04 18:15:53.646  INFO 13316 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2019-01-04 18:15:53.664  INFO 13316 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 18 ms
+2019-01-04 18:15:53.720  INFO 13316 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : Started GoogleDriveDocumentControllerTest in 3.295 seconds (JVM running for 5.207)
+2019-01-04 18:15:55.244  INFO 13316 --- [Thread-5] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:19:37.266  INFO 21976 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : Starting GoogleDriveDocumentControllerTest on mrajender-lp with PID 21976 (started by mrajender in C:\Users\mrajender\git\file-demo\spring-file-demo)
+2019-01-04 18:19:37.270  INFO 21976 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : No active profile set, falling back to default profiles: default
+2019-01-04 18:19:39.514  INFO 21976 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:19:39.915  INFO 21976 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2019-01-04 18:19:39.915  INFO 21976 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2019-01-04 18:19:39.932  INFO 21976 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 17 ms
+2019-01-04 18:19:39.980  INFO 21976 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : Started GoogleDriveDocumentControllerTest in 3.356 seconds (JVM running for 5.51)
+2019-01-04 18:19:41.761  INFO 21976 --- [Thread-5] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:19:59.113  INFO 24444 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : Starting GoogleDriveDocumentControllerTest on mrajender-lp with PID 24444 (started by mrajender in C:\Users\mrajender\git\file-demo\spring-file-demo)
+2019-01-04 18:19:59.119  INFO 24444 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : No active profile set, falling back to default profiles: default
+2019-01-04 18:20:01.435  INFO 24444 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:20:01.859  INFO 24444 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2019-01-04 18:20:01.860  INFO 24444 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2019-01-04 18:20:01.883  INFO 24444 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 23 ms
+2019-01-04 18:20:01.936  INFO 24444 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : Started GoogleDriveDocumentControllerTest in 3.48 seconds (JVM running for 5.638)
+2019-01-04 18:20:02.653  WARN 24444 --- [main] c.g.a.c.util.store.FileDataStoreFactory  : unable to change permissions for everybody: C:\Users\mrajender\credentials
+2019-01-04 18:20:02.654  WARN 24444 --- [main] c.g.a.c.util.store.FileDataStoreFactory  : unable to change permissions for owner: C:\Users\mrajender\credentials
+2019-01-04 18:20:06.622  INFO 24444 --- [main] c.d.demo.aop.DocumentServiceAopAspect    : com.MyExample.myMethod() method end
+2019-01-04 18:20:06.623  INFO 24444 --- [main] c.d.demo.aop.DocumentServiceAopAspect    : Time Taken by com.MyExample.myMethod is 0
+2019-01-04 18:20:06.624  INFO 24444 --- [main] c.d.demo.aop.DocumentServiceAopAspect    : com.MyExample.myMethod() method start
+2019-01-04 18:20:06.669  INFO 24444 --- [main] SpringBootDocumentServiceApplicationTest : Starting SpringBootDocumentServiceApplicationTest on mrajender-lp with PID 24444 (started by mrajender in C:\Users\mrajender\git\file-demo\spring-file-demo)
+2019-01-04 18:20:06.670  INFO 24444 --- [main] SpringBootDocumentServiceApplicationTest : No active profile set, falling back to default profiles: default
+2019-01-04 18:20:07.743  INFO 24444 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-01-04 18:20:08.086  INFO 24444 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-01-04 18:20:09.145  INFO 24444 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:20:10.023  INFO 24444 --- [main] SpringBootDocumentServiceApplicationTest : Started SpringBootDocumentServiceApplicationTest in 3.395 seconds (JVM running for 13.725)
+2019-01-04 18:20:10.061  INFO 24444 --- [main] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-01-04 18:20:10.077  INFO 24444 --- [main] d.d.SpringBootDocumentServiceApplication : Starting SpringBootDocumentServiceApplication on mrajender-lp with PID 24444 (started by mrajender in C:\Users\mrajender\git\file-demo\spring-file-demo)
+2019-01-04 18:20:10.078  INFO 24444 --- [main] d.d.SpringBootDocumentServiceApplication : No active profile set, falling back to default profiles: default
+2019-01-04 18:20:10.770  INFO 24444 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8019 (http)
+2019-01-04 18:20:10.826  INFO 24444 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-01-04 18:20:10.827  INFO 24444 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.13
+2019-01-04 18:20:10.847  INFO 24444 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_77\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_77/bin/server;C:/Program Files/Java/jre1.8.0_77/bin;C:/Program Files/Java/jre1.8.0_77/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\mrajender\AppData\Local\Microsoft\WindowsApps;;C:\Users\mrajender\Downloads\spring-tool-suite-3.9.6.RELEASE-e4.9.0-win32-x86_64\sts-bundle\sts-3.9.6.RELEASE;;.]
+2019-01-04 18:20:11.072  INFO 24444 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-01-04 18:20:11.072  INFO 24444 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 992 ms
+2019-01-04 18:20:11.211  INFO 24444 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2019-01-04 18:20:11.213  INFO 24444 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2019-01-04 18:20:11.486  INFO 24444 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:20:11.720  INFO 24444 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8019 (http) with context path ''
+2019-01-04 18:20:11.721  INFO 24444 --- [main] d.d.SpringBootDocumentServiceApplication : Started SpringBootDocumentServiceApplication in 1.69 seconds (JVM running for 15.424)
+2019-01-04 18:20:14.439  INFO 24444 --- [Thread-5] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:20:14.441  INFO 24444 --- [Thread-8] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:20:14.442  INFO 24444 --- [Thread-8] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-01-04 18:20:14.442  INFO 24444 --- [Thread-11] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:20:14.444  INFO 24444 --- [Thread-11] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2019-01-04 18:20:14.449  INFO 24444 --- [Thread-11] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2019-01-04 18:20:14.449  INFO 24444 --- [Thread-8] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-01-04 18:21:13.811  INFO 13556 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : Starting GoogleDriveDocumentControllerTest on mrajender-lp with PID 13556 (started by mrajender in C:\Users\mrajender\git\file-demo\spring-file-demo)
+2019-01-04 18:21:13.816  INFO 13556 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : No active profile set, falling back to default profiles: default
+2019-01-04 18:21:16.036  INFO 13556 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:21:16.426  INFO 13556 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2019-01-04 18:21:16.426  INFO 13556 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2019-01-04 18:21:16.447  INFO 13556 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 20 ms
+2019-01-04 18:21:16.510  INFO 13556 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : Started GoogleDriveDocumentControllerTest in 3.282 seconds (JVM running for 5.231)
+2019-01-04 18:21:17.179  WARN 13556 --- [main] c.g.a.c.util.store.FileDataStoreFactory  : unable to change permissions for everybody: C:\Users\mrajender\credentials
+2019-01-04 18:21:17.179  WARN 13556 --- [main] c.g.a.c.util.store.FileDataStoreFactory  : unable to change permissions for owner: C:\Users\mrajender\credentials
+2019-01-04 18:21:20.577  INFO 13556 --- [main] c.d.demo.aop.DocumentServiceAopAspect    : com.MyExample.myMethod() method end
+2019-01-04 18:21:20.578  INFO 13556 --- [main] c.d.demo.aop.DocumentServiceAopAspect    : Time Taken by com.MyExample.myMethod is 0
+2019-01-04 18:21:20.579  INFO 13556 --- [main] c.d.demo.aop.DocumentServiceAopAspect    : com.MyExample.myMethod() method start
+2019-01-04 18:21:20.621  INFO 13556 --- [main] SpringBootDocumentServiceApplicationTest : Starting SpringBootDocumentServiceApplicationTest on mrajender-lp with PID 13556 (started by mrajender in C:\Users\mrajender\git\file-demo\spring-file-demo)
+2019-01-04 18:21:20.622  INFO 13556 --- [main] SpringBootDocumentServiceApplicationTest : No active profile set, falling back to default profiles: default
+2019-01-04 18:21:21.695  INFO 13556 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-01-04 18:21:22.073  INFO 13556 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-01-04 18:21:23.102  INFO 13556 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:21:23.901  INFO 13556 --- [main] SpringBootDocumentServiceApplicationTest : Started SpringBootDocumentServiceApplicationTest in 3.319 seconds (JVM running for 12.623)
+2019-01-04 18:21:23.949  INFO 13556 --- [main] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-01-04 18:21:23.971  INFO 13556 --- [main] d.d.SpringBootDocumentServiceApplication : Starting SpringBootDocumentServiceApplication on mrajender-lp with PID 13556 (started by mrajender in C:\Users\mrajender\git\file-demo\spring-file-demo)
+2019-01-04 18:21:23.972  INFO 13556 --- [main] d.d.SpringBootDocumentServiceApplication : No active profile set, falling back to default profiles: default
+2019-01-04 18:21:24.658  INFO 13556 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8019 (http)
+2019-01-04 18:21:24.713  INFO 13556 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-01-04 18:21:24.714  INFO 13556 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.13
+2019-01-04 18:21:24.733  INFO 13556 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_77\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_77/bin/server;C:/Program Files/Java/jre1.8.0_77/bin;C:/Program Files/Java/jre1.8.0_77/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\mrajender\AppData\Local\Microsoft\WindowsApps;;C:\Users\mrajender\Downloads\spring-tool-suite-3.9.6.RELEASE-e4.9.0-win32-x86_64\sts-bundle\sts-3.9.6.RELEASE;;.]
+2019-01-04 18:21:24.920  INFO 13556 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-01-04 18:21:24.920  INFO 13556 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 945 ms
+2019-01-04 18:21:25.047  INFO 13556 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2019-01-04 18:21:25.049  INFO 13556 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2019-01-04 18:21:25.301  INFO 13556 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:21:25.536  INFO 13556 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8019 (http) with context path ''
+2019-01-04 18:21:25.537  INFO 13556 --- [main] d.d.SpringBootDocumentServiceApplication : Started SpringBootDocumentServiceApplication in 1.626 seconds (JVM running for 14.259)
+2019-01-04 18:21:28.269  INFO 13556 --- [Thread-5] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:21:28.271  INFO 13556 --- [Thread-8] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:21:28.272  INFO 13556 --- [Thread-8] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-01-04 18:21:28.273  INFO 13556 --- [Thread-11] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:21:28.275  INFO 13556 --- [Thread-11] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2019-01-04 18:21:28.282  INFO 13556 --- [Thread-8] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-01-04 18:21:28.283  INFO 13556 --- [Thread-11] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2019-01-04 18:22:29.606  INFO 27076 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : Starting GoogleDriveDocumentControllerTest on mrajender-lp with PID 27076 (started by mrajender in C:\Users\mrajender\git\file-demo\spring-file-demo)
+2019-01-04 18:22:29.609  INFO 27076 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : No active profile set, falling back to default profiles: default
+2019-01-04 18:22:31.714  INFO 27076 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:22:32.098  INFO 27076 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2019-01-04 18:22:32.098  INFO 27076 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2019-01-04 18:22:32.116  INFO 27076 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 18 ms
+2019-01-04 18:22:32.173  INFO 27076 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : Started GoogleDriveDocumentControllerTest in 3.15 seconds (JVM running for 5.112)
+2019-01-04 18:22:32.879  WARN 27076 --- [main] c.g.a.c.util.store.FileDataStoreFactory  : unable to change permissions for everybody: C:\Users\mrajender\credentials
+2019-01-04 18:22:32.879  WARN 27076 --- [main] c.g.a.c.util.store.FileDataStoreFactory  : unable to change permissions for owner: C:\Users\mrajender\credentials
+2019-01-04 18:22:36.422  INFO 27076 --- [main] c.d.demo.aop.DocumentServiceAopAspect    : com.MyExample.myMethod() method end
+2019-01-04 18:22:36.425  INFO 27076 --- [main] c.d.demo.aop.DocumentServiceAopAspect    : Time Taken by com.MyExample.myMethod is 1
+2019-01-04 18:22:36.426  INFO 27076 --- [main] c.d.demo.aop.DocumentServiceAopAspect    : com.MyExample.myMethod() method start
+2019-01-04 18:22:36.478  INFO 27076 --- [main] SpringBootDocumentServiceApplicationTest : Starting SpringBootDocumentServiceApplicationTest on mrajender-lp with PID 27076 (started by mrajender in C:\Users\mrajender\git\file-demo\spring-file-demo)
+2019-01-04 18:22:36.479  INFO 27076 --- [main] SpringBootDocumentServiceApplicationTest : No active profile set, falling back to default profiles: default
+2019-01-04 18:22:37.582  INFO 27076 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-01-04 18:22:38.002  INFO 27076 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-01-04 18:22:39.073  INFO 27076 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:22:39.830  INFO 27076 --- [main] SpringBootDocumentServiceApplicationTest : Started SpringBootDocumentServiceApplicationTest in 3.399 seconds (JVM running for 12.769)
+2019-01-04 18:22:39.863  INFO 27076 --- [main] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-01-04 18:22:39.883  INFO 27076 --- [main] d.d.SpringBootDocumentServiceApplication : Starting SpringBootDocumentServiceApplication on mrajender-lp with PID 27076 (started by mrajender in C:\Users\mrajender\git\file-demo\spring-file-demo)
+2019-01-04 18:22:39.883  INFO 27076 --- [main] d.d.SpringBootDocumentServiceApplication : No active profile set, falling back to default profiles: default
+2019-01-04 18:22:40.456  INFO 27076 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8019 (http)
+2019-01-04 18:22:40.496  INFO 27076 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-01-04 18:22:40.497  INFO 27076 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.13
+2019-01-04 18:22:40.515  INFO 27076 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_77\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_77/bin/server;C:/Program Files/Java/jre1.8.0_77/bin;C:/Program Files/Java/jre1.8.0_77/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\mrajender\AppData\Local\Microsoft\WindowsApps;;C:\Users\mrajender\Downloads\spring-tool-suite-3.9.6.RELEASE-e4.9.0-win32-x86_64\sts-bundle\sts-3.9.6.RELEASE;;.]
+2019-01-04 18:22:40.717  INFO 27076 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-01-04 18:22:40.718  INFO 27076 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 831 ms
+2019-01-04 18:22:40.846  INFO 27076 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2019-01-04 18:22:40.848  INFO 27076 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2019-01-04 18:22:41.109  INFO 27076 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:22:41.330  INFO 27076 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8019 (http) with context path ''
+2019-01-04 18:22:41.332  INFO 27076 --- [main] d.d.SpringBootDocumentServiceApplication : Started SpringBootDocumentServiceApplication in 1.496 seconds (JVM running for 14.271)
+2019-01-04 18:22:44.057  INFO 27076 --- [Thread-5] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:22:44.058  INFO 27076 --- [Thread-8] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:22:44.059  INFO 27076 --- [Thread-8] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-01-04 18:22:44.059  INFO 27076 --- [Thread-11] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:22:44.061  INFO 27076 --- [Thread-11] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2019-01-04 18:22:44.067  INFO 27076 --- [Thread-11] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2019-01-04 18:22:44.067  INFO 27076 --- [Thread-8] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-01-04 18:23:38.112  INFO 1132 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : Starting GoogleDriveDocumentControllerTest on mrajender-lp with PID 1132 (started by mrajender in C:\Users\mrajender\git\file-demo\spring-file-demo)
+2019-01-04 18:23:38.114  INFO 1132 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : No active profile set, falling back to default profiles: default
+2019-01-04 18:23:40.268  INFO 1132 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:23:40.650  INFO 1132 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2019-01-04 18:23:40.650  INFO 1132 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2019-01-04 18:23:40.667  INFO 1132 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 17 ms
+2019-01-04 18:23:40.720  INFO 1132 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : Started GoogleDriveDocumentControllerTest in 3.226 seconds (JVM running for 5.146)
+2019-01-04 18:23:41.366  WARN 1132 --- [main] c.g.a.c.util.store.FileDataStoreFactory  : unable to change permissions for everybody: C:\Users\mrajender\credentials
+2019-01-04 18:23:41.366  WARN 1132 --- [main] c.g.a.c.util.store.FileDataStoreFactory  : unable to change permissions for owner: C:\Users\mrajender\credentials
+2019-01-04 18:23:44.487  INFO 1132 --- [main] c.d.demo.aop.DocumentServiceAopAspect    : com.MyExample.myMethod() method end
+2019-01-04 18:23:44.489  INFO 1132 --- [main] c.d.demo.aop.DocumentServiceAopAspect    : Time Taken by com.MyExample.myMethod is 0
+2019-01-04 18:23:44.491  INFO 1132 --- [main] c.d.demo.aop.DocumentServiceAopAspect    : com.MyExample.myMethod() method start
+2019-01-04 18:23:44.539  INFO 1132 --- [main] SpringBootDocumentServiceApplicationTest : Starting SpringBootDocumentServiceApplicationTest on mrajender-lp with PID 1132 (started by mrajender in C:\Users\mrajender\git\file-demo\spring-file-demo)
+2019-01-04 18:23:44.539  INFO 1132 --- [main] SpringBootDocumentServiceApplicationTest : No active profile set, falling back to default profiles: default
+2019-01-04 18:23:45.581  INFO 1132 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-01-04 18:23:45.922  INFO 1132 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-01-04 18:23:46.915  INFO 1132 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:23:47.669  INFO 1132 --- [main] SpringBootDocumentServiceApplicationTest : Started SpringBootDocumentServiceApplicationTest in 3.174 seconds (JVM running for 12.096)
+2019-01-04 18:23:47.704  INFO 1132 --- [main] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-01-04 18:23:47.723  INFO 1132 --- [main] d.d.SpringBootDocumentServiceApplication : Starting SpringBootDocumentServiceApplication on mrajender-lp with PID 1132 (started by mrajender in C:\Users\mrajender\git\file-demo\spring-file-demo)
+2019-01-04 18:23:47.724  INFO 1132 --- [main] d.d.SpringBootDocumentServiceApplication : No active profile set, falling back to default profiles: default
+2019-01-04 18:23:48.347  INFO 1132 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8019 (http)
+2019-01-04 18:23:48.393  INFO 1132 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-01-04 18:23:48.394  INFO 1132 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.13
+2019-01-04 18:23:48.413  INFO 1132 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_77\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_77/bin/server;C:/Program Files/Java/jre1.8.0_77/bin;C:/Program Files/Java/jre1.8.0_77/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\mrajender\AppData\Local\Microsoft\WindowsApps;;C:\Users\mrajender\Downloads\spring-tool-suite-3.9.6.RELEASE-e4.9.0-win32-x86_64\sts-bundle\sts-3.9.6.RELEASE;;.]
+2019-01-04 18:23:48.607  INFO 1132 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-01-04 18:23:48.608  INFO 1132 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 881 ms
+2019-01-04 18:23:48.741  INFO 1132 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2019-01-04 18:23:48.743  INFO 1132 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2019-01-04 18:23:48.978  INFO 1132 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:23:49.230  INFO 1132 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8019 (http) with context path ''
+2019-01-04 18:23:49.232  INFO 1132 --- [main] d.d.SpringBootDocumentServiceApplication : Started SpringBootDocumentServiceApplication in 1.555 seconds (JVM running for 13.659)
+2019-01-04 18:23:49.426  INFO 1132 --- [Thread-5] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:23:51.926  INFO 1132 --- [Thread-8] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:23:51.927  INFO 1132 --- [Thread-8] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-01-04 18:23:51.927  INFO 1132 --- [Thread-11] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:23:51.929  INFO 1132 --- [Thread-11] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2019-01-04 18:23:51.936  INFO 1132 --- [Thread-11] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2019-01-04 18:23:51.935  INFO 1132 --- [Thread-8] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
+2019-01-04 18:24:10.350  INFO 18952 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : Starting GoogleDriveDocumentControllerTest on mrajender-lp with PID 18952 (started by mrajender in C:\Users\mrajender\git\file-demo\spring-file-demo)
+2019-01-04 18:24:10.354  INFO 18952 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : No active profile set, falling back to default profiles: default
+2019-01-04 18:24:12.563  INFO 18952 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:24:12.932  INFO 18952 --- [main] o.s.b.t.m.w.SpringBootMockServletContext : Initializing Spring TestDispatcherServlet ''
+2019-01-04 18:24:12.933  INFO 18952 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Initializing Servlet ''
+2019-01-04 18:24:12.953  INFO 18952 --- [main] o.s.t.web.servlet.TestDispatcherServlet  : Completed initialization in 20 ms
+2019-01-04 18:24:13.011  INFO 18952 --- [main] .d.d.c.GoogleDriveDocumentControllerTest : Started GoogleDriveDocumentControllerTest in 3.279 seconds (JVM running for 5.227)
+2019-01-04 18:24:13.693  WARN 18952 --- [main] c.g.a.c.util.store.FileDataStoreFactory  : unable to change permissions for everybody: C:\Users\mrajender\credentials
+2019-01-04 18:24:13.693  WARN 18952 --- [main] c.g.a.c.util.store.FileDataStoreFactory  : unable to change permissions for owner: C:\Users\mrajender\credentials
+2019-01-04 18:24:16.972  INFO 18952 --- [main] c.d.demo.aop.DocumentServiceAopAspect    : com.MyExample.myMethod() method end
+2019-01-04 18:24:16.974  INFO 18952 --- [main] c.d.demo.aop.DocumentServiceAopAspect    : Time Taken by com.MyExample.myMethod is 0
+2019-01-04 18:24:16.975  INFO 18952 --- [main] c.d.demo.aop.DocumentServiceAopAspect    : com.MyExample.myMethod() method start
+2019-01-04 18:24:17.024  INFO 18952 --- [main] SpringBootDocumentServiceApplicationTest : Starting SpringBootDocumentServiceApplicationTest on mrajender-lp with PID 18952 (started by mrajender in C:\Users\mrajender\git\file-demo\spring-file-demo)
+2019-01-04 18:24:17.025  INFO 18952 --- [main] SpringBootDocumentServiceApplicationTest : No active profile set, falling back to default profiles: default
+2019-01-04 18:24:18.051  INFO 18952 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Starting...
+2019-01-04 18:24:18.445  INFO 18952 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Start completed.
+2019-01-04 18:24:19.422  INFO 18952 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:24:20.157  INFO 18952 --- [main] SpringBootDocumentServiceApplicationTest : Started SpringBootDocumentServiceApplicationTest in 3.179 seconds (JVM running for 12.374)
+2019-01-04 18:24:20.192  INFO 18952 --- [main] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2019-01-04 18:24:20.205  INFO 18952 --- [main] d.d.SpringBootDocumentServiceApplication : Starting SpringBootDocumentServiceApplication on mrajender-lp with PID 18952 (started by mrajender in C:\Users\mrajender\git\file-demo\spring-file-demo)
+2019-01-04 18:24:20.205  INFO 18952 --- [main] d.d.SpringBootDocumentServiceApplication : No active profile set, falling back to default profiles: default
+2019-01-04 18:24:20.829  INFO 18952 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8019 (http)
+2019-01-04 18:24:20.868  INFO 18952 --- [main] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2019-01-04 18:24:20.868  INFO 18952 --- [main] org.apache.catalina.core.StandardEngine  : Starting Servlet Engine: Apache Tomcat/9.0.13
+2019-01-04 18:24:20.889  INFO 18952 --- [main] o.a.catalina.core.AprLifecycleListener   : The APR based Apache Tomcat Native library which allows optimal performance in production environments was not found on the java.library.path: [C:\Program Files\Java\jdk1.8.0_77\bin;C:\Windows\Sun\Java\bin;C:\Windows\system32;C:\Windows;C:/Program Files/Java/jre1.8.0_77/bin/server;C:/Program Files/Java/jre1.8.0_77/bin;C:/Program Files/Java/jre1.8.0_77/lib/amd64;C:\ProgramData\Oracle\Java\javapath;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\Users\mrajender\AppData\Local\Microsoft\WindowsApps;;C:\Users\mrajender\Downloads\spring-tool-suite-3.9.6.RELEASE-e4.9.0-win32-x86_64\sts-bundle\sts-3.9.6.RELEASE;;.]
+2019-01-04 18:24:21.070  INFO 18952 --- [main] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2019-01-04 18:24:21.070  INFO 18952 --- [main] o.s.web.context.ContextLoader            : Root WebApplicationContext: initialization completed in 863 ms
+2019-01-04 18:24:21.196  INFO 18952 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Starting...
+2019-01-04 18:24:21.198  INFO 18952 --- [main] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Start completed.
+2019-01-04 18:24:21.440  INFO 18952 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:24:21.687  INFO 18952 --- [main] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8019 (http) with context path ''
+2019-01-04 18:24:21.689  INFO 18952 --- [main] d.d.SpringBootDocumentServiceApplication : Started SpringBootDocumentServiceApplication in 1.525 seconds (JVM running for 13.906)
+2019-01-04 18:24:24.413  INFO 18952 --- [Thread-5] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:24:24.414  INFO 18952 --- [Thread-8] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:24:24.416  INFO 18952 --- [Thread-11] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
+2019-01-04 18:24:24.416  INFO 18952 --- [Thread-8] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown initiated...
+2019-01-04 18:24:24.418  INFO 18952 --- [Thread-11] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown initiated...
+2019-01-04 18:24:24.425  INFO 18952 --- [Thread-11] com.zaxxer.hikari.HikariDataSource       : HikariPool-2 - Shutdown completed.
+2019-01-04 18:24:24.425  INFO 18952 --- [Thread-8] com.zaxxer.hikari.HikariDataSource       : HikariPool-1 - Shutdown completed.
